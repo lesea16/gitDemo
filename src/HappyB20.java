@@ -4,5 +4,7 @@ public class HappyB20 {
         System.out.println("B20 is always happy");
         // a brand new line is added
 
+        System.out.println("Hello everyone");
+
     }
 }
